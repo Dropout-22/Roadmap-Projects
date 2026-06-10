@@ -8,10 +8,10 @@ This repository documents consistent practice through small, real implementation
 
 To build strong programming foundations by:
 
-.Practicing consistently through hands-on projects
-.Strengthening problem-solving skills
-.Learning version control with Git & GitHub
-.Growing from beginner-level code to production-ready thinking
+-Practicing consistently through hands-on projects
+-Strengthening problem-solving skills
+-Learning version control with Git & GitHub
+-Growing from beginner-level code to production-ready thinking
 
 🧠 Mindset Behind This Repo
 
@@ -20,9 +20,9 @@ This is not a showcase of perfect code.
 It is a record of growth.
 
 Every project reflects:
-.Learning in progress
-.Mistakes turned into understanding
-.Small improvements stacked over time
+-Learning in progress
+-Mistakes turned into understanding
+-Small improvements stacked over time
 
 📂 Project Structure
 
@@ -38,9 +38,9 @@ Roadmap-Projects/
 🛠️ Technologies Used
 
 Currently focused on:
-.Python 🐍
-.Git & GitHub 🔧
-.VS Code 💻
+-Python 🐍
+-Git & GitHub 🔧
+-VS Code 💻
 
 Future additions will include web development and backend technologies.
 
@@ -65,11 +65,11 @@ Progress Tracker
  🌱 Future Direction
 
 This repository will evolve into:
-.Interactive web applications
-.API-based projects
-.Automation scripts
-.Cybersecurity experiments
-.Full-stack applications
+-Interactive web applications
+-API-based projects
+-Automation scripts
+-Cybersecurity experiments
+-Full-stack applications
 
 📜 License
 This project is licensed under the MIT License — feel free to use and learn from it.
